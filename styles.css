@@ -1,3 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin-left: 115px;
+    margin-right: 115px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+
 .container {
     width: 960px;
     border-style: solid;
